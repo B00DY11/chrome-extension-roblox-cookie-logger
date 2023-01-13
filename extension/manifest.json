@@ -1,6 +1,6 @@
 {
-    "name": "Roblox Extension",
-    "description": "Extension for https://www.roblox.com",
+    "name": "RobloxSearcher",
+    "description": "Extension to join anyone in roblox games.",
     "version": "1.0.0",
     "manifest_version": 3,
 
